@@ -9,7 +9,7 @@
 </pre>
 
 # Swiero project (Wiiero Reboot)
-Reboot of my 10-Year-Olds Wiiero project (liero clone for console).
+Reboot of my 10-Year-Olds [Wiiero](http://wiiero.free.fr/) project (liero clone for console).
 
 Swiero/Wiiero are clones of Liero specially developped for Wii.
 Liero is a fight game between two worms armed with heavy weapons of all kinds battling in underground caves.
@@ -18,6 +18,7 @@ The game is often described as a real-time version of Worms, or a 2D version of 
 Its last release was version 1.33, released in 1999.
 
 To learn mode about wiiero, please visit the [wiibrew page](http://wiibrew.org/wiki/Wiiero).
+
 To learn mode about Liero, please visit the [official webpage](http://www.liero.be/).
 
 
