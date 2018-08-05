@@ -18,16 +18,13 @@ The game is often described as a real-time version of Worms, or a 2D version of 
 Its last release was version 1.33, released in 1999.
 
 To learn mode about wiiero, please visit the [wiibrew page](http://wiibrew.org/wiki/Wiiero).
-
 To learn mode about Liero, please visit the [official webpage](http://www.liero.be/).
 
 
 ## Swiero / Wiiero
 
-You play Swiero/Wiiero exctly the same way as you played Liero: same game modes, same original weapons, coming with new ones like vermifuge, holy grenade, or even plasma canon! 
-
+You play Swiero/Wiiero exctly the same way as you played Liero: same game modes, same original weapons, coming with unic ones like vermifuge, holy grenade, even plasma canon and so much more! 
 Wiiero is a two player game, using the wiimote alone or both wiimote and nunchuk on the Wii and keyboard on PC.
-
 In wiiero game you can fight your opponent in 3 different game modes:
 
 * __Deathmatch:__ The goal of the "deathmatch" mode is simply killing the enemy by hurting him the most possible. Lives are mimited and the player with no more lives will be the loser. You can define the number of lives for both players in the "option" menu.
